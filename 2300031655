@@ -1,0 +1,9 @@
+create a foldermkdir
+cd git clone
+cd projectredhat
+vim sample.txt
+git status (red color)
+git add sample.txt
+git status (green color)
+git commit -m "version1"
+git push 
